@@ -1,3 +1,8 @@
+/*
+Kamil Salawa October 2020
+Message  ixer
+*/
+
 function countCharacter(inputString, inputCharacter) {
   let count = 0;
   let string = inputString.toLowerCase();
